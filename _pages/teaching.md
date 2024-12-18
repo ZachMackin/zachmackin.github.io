@@ -5,9 +5,6 @@ excerpt: "About me"
 author_profile: true
 
 ---
-
-
-## Teaching
 ## Texas A&M University 
 ### Spring 2025 
 - Stat 421: Machine Learning (TA)
