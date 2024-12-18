@@ -1,5 +1,5 @@
 ---
-permalink: /writing/
+permalink: /write-blogs/
 title: "Blog Post"
 excerpt: "About me"
 author_profile: true
