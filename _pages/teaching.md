@@ -8,6 +8,7 @@ author_profile: true
 ## Texas A&M University 
 ### Spring 2025 
 - Stat 421: Machine Learning (TA)
+
 ### Fall 2024
 - Stat 302: Statistical Methods (TA)
   
