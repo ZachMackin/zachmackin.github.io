@@ -16,6 +16,6 @@ My research experience has been in a variety of domains from identifying illegal
 
 Additionally, I have extensive teaching experiences within Mathematics, Statistics, Computer Science, and Data Science courses.
 
-In my free time I enjoy hiking, golf, disc golf (I am a member of the TAMU Disc Golf Team), traveling, [reading](https://www.goodreads.com/user/show/152234697-zach-mackin), [writing](https://medium.com/@zmackin307), and developing forecasts for sports, geopolitics, and existential risk. 
+In my free time I enjoy hiking, golf, disc golf (I am a member of the TAMU Disc Golf Team), traveling, [reading](https://www.goodreads.com/user/show/152234697-zach-mackin), [writing](https://zachmackin.substack.com/), and developing forecasts for sports, geopolitics, and existential risk. 
 
 Thank you for visiting my page! To reach out you can send an email to zmackin307 (at) gmail (dot) com or connect with me on [Linkedin](https://www.linkedin.com/in/zachary-mackin-408ba51bb/).
